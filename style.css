@@ -23,12 +23,12 @@ body {
     position: fixed;
     background-color: #eeeef1;
     margin: auto;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .sidebar {
     height: 100%;
-    padding: 150px 20px;
+    padding: 100px 20px;
     min-height: 600px;
 }
 
@@ -69,3 +69,14 @@ h1 {
     padding-top: 30px;
 }
 
+.pub-title, .my-name {
+    font-weight: bold
+}
+
+.authors, .venue {
+    font-size: 0.9rem;
+}
+
+.venue {
+    font-style: italic;
+}
