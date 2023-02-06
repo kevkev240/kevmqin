@@ -1,3 +1,5 @@
 # Muran (Kevin) Qin's Personal Website
 
-Welcome
+Welcome to Kevin's Homepage
+
+Just for fun
